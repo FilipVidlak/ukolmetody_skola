@@ -1,0 +1,10 @@
+C:\Users\vidlakf.03\source\repos\ukolmetody_skola\ukolmetody_skola\bin\Debug\ukolmetody_skola.exe.config
+C:\Users\vidlakf.03\source\repos\ukolmetody_skola\ukolmetody_skola\bin\Debug\ukolmetody_skola.exe
+C:\Users\vidlakf.03\source\repos\ukolmetody_skola\ukolmetody_skola\bin\Debug\ukolmetody_skola.pdb
+C:\Users\vidlakf.03\source\repos\ukolmetody_skola\ukolmetody_skola\obj\Debug\ukolmetody_skola.csprojAssemblyReference.cache
+C:\Users\vidlakf.03\source\repos\ukolmetody_skola\ukolmetody_skola\obj\Debug\ukolmetody_skola.Form1.resources
+C:\Users\vidlakf.03\source\repos\ukolmetody_skola\ukolmetody_skola\obj\Debug\ukolmetody_skola.Properties.Resources.resources
+C:\Users\vidlakf.03\source\repos\ukolmetody_skola\ukolmetody_skola\obj\Debug\ukolmetody_skola.csproj.GenerateResource.cache
+C:\Users\vidlakf.03\source\repos\ukolmetody_skola\ukolmetody_skola\obj\Debug\ukolmetody_skola.csproj.CoreCompileInputs.cache
+C:\Users\vidlakf.03\source\repos\ukolmetody_skola\ukolmetody_skola\obj\Debug\ukolmetody_skola.exe
+C:\Users\vidlakf.03\source\repos\ukolmetody_skola\ukolmetody_skola\obj\Debug\ukolmetody_skola.pdb
